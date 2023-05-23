@@ -1,0 +1,14 @@
+C:\Users\LukeB\RiderProjects\Garden\Garden.Configuration\bin\Debug\net7.0\Garden.Configuration.deps.json
+C:\Users\LukeB\RiderProjects\Garden\Garden.Configuration\bin\Debug\net7.0\Garden.Configuration.dll
+C:\Users\LukeB\RiderProjects\Garden\Garden.Configuration\bin\Debug\net7.0\Garden.Configuration.pdb
+C:\Users\LukeB\RiderProjects\Garden\Garden.Configuration\obj\Debug\net7.0\Garden.Configuration.csproj.AssemblyReference.cache
+C:\Users\LukeB\RiderProjects\Garden\Garden.Configuration\obj\Debug\net7.0\Garden.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LukeB\RiderProjects\Garden\Garden.Configuration\obj\Debug\net7.0\Garden.Configuration.AssemblyInfoInputs.cache
+C:\Users\LukeB\RiderProjects\Garden\Garden.Configuration\obj\Debug\net7.0\Garden.Configuration.AssemblyInfo.cs
+C:\Users\LukeB\RiderProjects\Garden\Garden.Configuration\obj\Debug\net7.0\Garden.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\LukeB\RiderProjects\Garden\Garden.Configuration\obj\Debug\net7.0\Garden.Configuration.dll
+C:\Users\LukeB\RiderProjects\Garden\Garden.Configuration\obj\Debug\net7.0\refint\Garden.Configuration.dll
+C:\Users\LukeB\RiderProjects\Garden\Garden.Configuration\obj\Debug\net7.0\Garden.Configuration.pdb
+C:\Users\LukeB\RiderProjects\Garden\Garden.Configuration\obj\Debug\net7.0\ref\Garden.Configuration.dll
+C:\Users\LukeB\RiderProjects\Garden\Garden.Configuration\bin\Debug\net7.0\appsettings.application.json
+C:\Users\LukeB\RiderProjects\Garden\Garden.Configuration\bin\Debug\net7.0\appsettings.application.development.json

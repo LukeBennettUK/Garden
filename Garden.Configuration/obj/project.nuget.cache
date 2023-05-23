@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "EJbCY38Hulrkwse52xA8/4pst71Pny/rJJm/36/cFwzsSmhMBIUpML8andcxTTMa1CGANmhKNleBJ3C5Z6vT8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LukeB\\RiderProjects\\Garden\\Garden.Configuration\\Garden.Configuration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-preview.4.23259.5\\microsoft.extensions.configuration.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.4.23259.5\\microsoft.extensions.configuration.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\8.0.0-preview.4.23259.5\\microsoft.extensions.configuration.fileextensions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.extensions.configuration.json\\8.0.0-preview.4.23259.5\\microsoft.extensions.configuration.json.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0-preview.4.23259.5\\microsoft.extensions.fileproviders.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0-preview.4.23259.5\\microsoft.extensions.fileproviders.physical.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0-preview.4.23259.5\\microsoft.extensions.filesystemglobbing.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0-preview.4.23259.5\\microsoft.extensions.primitives.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\system.text.encodings.web\\8.0.0-preview.4.23259.5\\system.text.encodings.web.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "C:\\Users\\LukeB\\.nuget\\packages\\system.text.json\\8.0.0-preview.4.23259.5\\system.text.json.8.0.0-preview.4.23259.5.nupkg.sha512"
+  ],
+  "logs": []
+}
